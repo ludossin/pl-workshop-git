@@ -20,7 +20,7 @@
             "color": "#2a33e6"
         },
         {
-            "name": "Name",
+            "name": "Mandy",
             "project": "mmm",
             "color": "#448f09"
         },
