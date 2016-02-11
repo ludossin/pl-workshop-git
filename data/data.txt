@@ -46,10 +46,16 @@
 
         },
         {
-            "name": "Ilayda Sarlak",
+
+            "name": "Inte Gloerich",
+            "project": "thr",
+            "color": "#333333"
+
+        },
+        {
+         "name": "Ilayda Sarlak",
             "project": "thr",
             "color": "#e93165"
-
         }
     ]
 }
