@@ -45,5 +45,11 @@
             "color": "#e93165"
 
         }
+        {
+            "name": "Inte Gloerich",
+            "project": "thr",
+            "color": "#333333"
+
+        }
     ]
 }
