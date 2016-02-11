@@ -25,7 +25,7 @@
             "color": "#448f09"
         },
         {
-            "name": "Name",
+            "name": "Alina Niemann",
             "project": "mmm",
             "color": "#36deda"
         },
