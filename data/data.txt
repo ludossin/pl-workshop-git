@@ -44,6 +44,12 @@
             "project": "thr",
             "color": "#e93165"
 
+        },
+        {
+            "name": "Ilayda Sarlak",
+            "project": "thr",
+            "color": "#e93165"
+
         }
     ]
 }
