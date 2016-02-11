@@ -40,7 +40,7 @@
             "color": "#09f238"
         },
         {
-            "name": "Name",
+            "name": "Belen",
             "project": "thr",
             "color": "#e93165"
         }
