@@ -35,9 +35,9 @@
             "color": "#ff0088"
         },
         {
-            "name": "Name",
-            "project": "thr",
-            "color": "#09f238"
+            "name": "Andrea Perez",
+            "project": "mmm",
+            "color": "#04ccaa"
         },
         {
             "name": "Belen",
