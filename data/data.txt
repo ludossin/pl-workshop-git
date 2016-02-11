@@ -1,0 +1,48 @@
+{
+    "projects":[
+        {
+            "name": "Transforming Hit&Run Millennials",
+            "code": "thr"
+        },
+        {
+            "name": "Mutating the Medium for Millennials",
+            "code": "mmm"
+        },
+        {
+            "name": "All",
+            "code": "all"
+        }
+    ],
+    "team":[
+        {
+            "name": "Name",
+            "project": "thr",
+            "color": "#2a33e6"
+        },
+        {
+            "name": "Name",
+            "project": "mmm",
+            "color": "#448f09"
+        },
+        {
+            "name": "Name",
+            "project": "mmm",
+            "color": "#36deda"
+        },
+        {
+            "name": "Lucia Dossin",
+            "project": "thr mmm",
+            "color": "#ff0088"
+        },
+        {
+            "name": "Name",
+            "project": "thr",
+            "color": "#09f238"
+        },
+        {
+            "name": "Name",
+            "project": "thr",
+            "color": "#e93165"
+        }
+    ]
+}
