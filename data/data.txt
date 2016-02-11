@@ -40,9 +40,10 @@
             "color": "#09f238"
         },
         {
-            "name": "Andrea P&#233rez",
-            "project": "mmm",
-            "color": "#04ccaa"
+            "name": "Belen",
+            "project": "thr",
+            "color": "#e93165"
+
         }
     ]
 }
