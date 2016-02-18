@@ -1,6 +1,7 @@
 html, body{
     background-color: #fafafa;
-    font-family: 'Helvetica', 'Arial', sans-serif;
+    /*font-family: 'Helvetica', 'Arial', sans-serif;*/
+    font-family: serif;
 }
 
 ul{padding: 0;}
